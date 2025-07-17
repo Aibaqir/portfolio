@@ -9,8 +9,6 @@ function Type() {
                     "Software Engineer",
                     "MERN Stack Developer",
                     "Full Stack Developer",
-                    "Backend Laravel/Php",
-                    "Backend Go Lang",
                     "Frontend Vue.js",
                     "Frontend React.js",
                 ],

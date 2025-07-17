@@ -24,7 +24,7 @@ function Home2() {
                             <br />
                             <br />I am fluent in classics like
                             <i>
-                                <b className="purple"> Php, Laravel, Javascript, Docker, Unit Testing. </b>
+                                <b className="purple"> Php, Laravel, Javascript, React, Unit Testing. </b>
                             </i>
                             <br />
                             <br />
@@ -67,7 +67,7 @@ function Home2() {
                         <ul className="home-about-social-links">
                             <li className="social-icons">
                                 <a
-                                    href="https://github.com/abdullahkhanwork"
+                                    href="https://github.com/Aibaqir"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
                             </li> */}
                             <li className="social-icons">
                                 <a
-                                    href="https://www.linkedin.com/in/iabdullahkhanofficial"
+                                    href="https://www.linkedin.com/in/bakirkazmi/"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
                             </li>
                             <li className="social-icons">
                                 <a
-                                    href="https://www.instagram.com/iabdullahkhanofficial"
+                                    href="https://www.instagram.com/bakirkazmi8/"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="icon-colour home-social-icons"
